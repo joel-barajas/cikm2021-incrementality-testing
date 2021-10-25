@@ -1,6 +1,6 @@
 # Online Advertising Incrementality Testing: Practical Lessons And Emerging Challenges
 
-Presented at the [CIKM 2021](https://www.kdd.org/kdd2021/). Extended version from the KDD 2021 tutorial [tutorial](https://joel-barajas.github.io/kdd2021-incrementality-testing/),[KDD 2021](https://kdd.org/kdd2021/tutorials)
+Presented at the [CIKM 2021](https://www.kdd.org/kdd2021/).
 
 ## Authors
   - [Joel Barajas](http://www.linkedin.com/pub/joel-barajas/8/6b7/bb0), [Yahoo Research](https://research.yahoo.com/researchers/jbarajas?fr=crmas), yahoo!
@@ -20,8 +20,6 @@ We propose a practical tutorial in the incrementality testing landscape, includi
 - The testing cycle, case studies, and recommendations
 
 We provide first-hand lessons based on the development of such a platform in a major combined DSP and ad network, and after running several tests for up to two months each over recent years. 
-
-Expanding on our tutorial at _KDD 2021 ([tutorial](https://joel-barajas.github.io/kdd2021-incrementality-testing/))_, we elaborate more on the user privacy implications in online experimentation and incrementality testing. We aim to motivate the research community to focus on solutions under these emerging constraints. 
 
 ## Outline and Presentations
 
