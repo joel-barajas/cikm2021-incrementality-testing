@@ -21,6 +21,8 @@ We propose a practical tutorial in the incrementality testing landscape, includi
 
 We provide first-hand lessons based on the development of such a platform in a major combined DSP and ad network, and after running several tests for up to two months each over recent years. 
 
+We elaborate more on the user privacy implications in online experimentation and incrementality testing. We aim to motivate the research community to focus on solutions under these emerging constraints. 
+
 ## Outline and Presentations
 
 1. [slides](presentations/inc_testing_part_1.pdf) The basics: context and challenges
