@@ -1,6 +1,6 @@
 # Online Advertising Incrementality Testing: Practical Lessons And Emerging Challenges
 
-Presented at the [CIKM 2021](https://www.kdd.org/kdd2021/).
+Presented at the [CIKM 2021](https://www.cikm2021.org/).
 
 ## Authors
   - [Joel Barajas](http://www.linkedin.com/pub/joel-barajas/8/6b7/bb0), [Yahoo Research](https://research.yahoo.com/researchers/jbarajas?fr=crmas), yahoo!
@@ -31,9 +31,9 @@ We elaborate more on the user privacy implications in online experimentation and
 4. [slides](presentations/inc_testing_part_4.pdf) Deployment at Scale: test cycle and case studies
 5. [slides](presentations/inc_testing_part_5.pdf) Emerging trends: identity challenges, industry trends and solutions
 
-Some of the papers cited in the slides are avaiable at the folder [papers](papers)
+Some of the papers cited in the slides are avaiable at the folder [papers](https://github.com/joel-barajas/cikm2021-incrementality-testing/tree/gh-pages/papers)
 
-The tutorial ACM paper, which includes the detailed outline of the tutorial, is available [here](cikm2021_inc_testing_tutorial).
+The tutorial ACM paper, which includes the detailed outline of the tutorial, is available [here](cikm2021_inc_testing_tutorial.pdf).
 
 Feedback welcome!! 
 
